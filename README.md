@@ -1,11 +1,11 @@
 #### 基于计算机视觉信息处理的渔网生产质量检测程序
-> **Outhor** :JaikenWong 
-> **Time**: 2018-12-13 
-> **Language**: Java
-> **Enveriment**: jdk1.8 + win10 +OpenCV320
+> - **Outhor** :JaikenWong 
+> - **Time**: 2018-12-13 
+> - **Language**: Java
+> - **Enveriment**: jdk1.8 + win10 +OpenCV320
 ---
 ##### 主体思想：
-- ![流程图](images/1-1.png)
+ ![流程图](images/1-1.png)
 - (1) 基于视频录像的实时获取,逐帧拆分
     - ① 摄像头的获取
     - ② 单帧图像的获取
