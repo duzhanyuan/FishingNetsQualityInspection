@@ -1,0 +1,5 @@
+训练集resources/FishNet/(Points_NT_r,Points_NT_w)放在此处
+单张图片测试放在resources/FishNetTest/(Points_NT_r,Points_NT_w)中
+路径名称位置可以随便改，但要由分类的文件夹，为了适配LabelMarker
+model文件放在此处resources/model.bin
+训练速度可以看迭代次数，批处理，随机种子等影响，模型的优劣同样受到影响。
