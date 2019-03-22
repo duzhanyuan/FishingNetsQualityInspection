@@ -26,5 +26,6 @@
     - 预警
 - (4) 人工复查核验检测结果
 - (5) 分析渔网生产质量，并生成图表和报告
-#### 训练模型文件下载[地址](https://pan.baidu.com/s/1c3XCUxpq4RhHcCqH8gUOTg) ,提取码：9ze7. 
+##### 训练模型文件下载[地址](https://pan.baidu.com/s/1c3XCUxpq4RhHcCqH8gUOTg) ,提取码：9ze7. 
+##### 数据集下载[地址](https://pan.baidu.com/s/17pq7aEnl57uyeFZOvshvWQ),提取码：n9xk .
 
