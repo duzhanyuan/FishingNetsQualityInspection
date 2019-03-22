@@ -1,4 +1,4 @@
-项目直接用Intellij IDEA 导入即可，初次加载Maven 文件较慢，
-可自行将Maven Setting 中的仓库源设置为alibaba的仓库。
-模型理论上，其他语言，框架等也可以复用，尚未尝试。
-JDK 1.8及以上都可。
+项目直接用myeclipse 导入即可
+整体程序由Maven 构建
+SDK 为海康威视
+技术核心 OpenCV3.2.0,DL4J
