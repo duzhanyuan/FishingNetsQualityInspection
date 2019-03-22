@@ -1,0 +1,4 @@
+.git/objects/59/a0c241d35376e7bc206c13466d9b0792bbb6c6 filter=lfs diff=lfs merge=lfs -text
+FishNet/model.bin filter=lfs diff=lfs merge=lfs -text
+FishNet/model.bin./FishNet/model.bin filter=lfs diff=lfs merge=lfs -text
+FishNet/target/classes/model.bin filter=lfs diff=lfs merge=lfs -text
