@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<thresholdStep>10.</thresholdStep>
+<minThreshold>0.</minThreshold>
+<maxThreshold>255.</maxThreshold>
+<minRepeatability>2</minRepeatability>
+<minDistBetweenBlobs>100.</minDistBetweenBlobs>
+ <filterByColor>1</filterByColor>
+<blobColor>255</blobColor> 
+<filterByArea>1</filterByArea>
+<minArea>180.</minArea>
+<maxArea>5000.</maxArea>
+<filterByCircularity>0</filterByCircularity>
+<filterByInertia>0</filterByInertia>
+<filterByConvexity>0</filterByConvexity>
+</opencv_storage>
